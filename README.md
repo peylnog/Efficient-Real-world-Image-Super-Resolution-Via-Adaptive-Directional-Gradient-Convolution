@@ -1,10 +1,11 @@
 # Efficient Real-world Image Super-Resolution Via Adaptive Directional Gradient Convolution
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([https://arxiv.org/abs/2408.11758](https://arxiv.org/abs/2405.07023))  [![Project](https://img.shields.io/badge/Project-Page-blue.svg)]() 
+
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([https://arxiv.org/abs/2408.11758](https://arxiv.org/abs/2405.07023))  [![Project](https://img.shields.io/badge/Project-Page-blue.svg)]() -->
 
 ## :bookmark: News!!!
-- [x] 2024-05-07: **Arxiv Version has been released.**
-- [ ] The code will be released soon.
+<!-- - [x] 2024-05-07: **Arxiv Version has been released.** -->
+<!-- - [ ] The code will be released soon. -->
 
 
 
@@ -23,7 +24,7 @@ Real-SR endeavors to produce high-resolution images with rich details while miti
 
 ## Cite US
 Please cite us if this work is helpful to you.
-
+<!--
 ```
 @article{peng2024efficient,
   title={Efficient Real-world Image Super-Resolution Via Adaptive Directional Gradient Convolution},
@@ -32,6 +33,8 @@ Please cite us if this work is helpful to you.
   year={2024}
 }
 ```
+-->
+
 
 ## Acknowledgments
 The basic code is partially from the below repos.
